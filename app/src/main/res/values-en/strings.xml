@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bike Parking</string>
+    <string name="connection_sign_in_title">Register/ Sign in</string>
+    <string name="sign_with_email">Sign with Email</string>
+</resources>
