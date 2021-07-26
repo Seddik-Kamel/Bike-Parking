@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Bike Parking</string>
+    <string name="app_name" translatable="false">Bike Parking</string>
+    <string name="connection_sign_in_title">Connection/Inscription</string>
+    <string name="sign_with_email">Inscription avec adresse email</string>
 </resources>
