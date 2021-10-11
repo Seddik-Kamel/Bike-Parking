@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BikeParking">
         <activity
-            android:name=".ui.activities.SignUpActivity"
+            android:name=".ui.activities.SignUpEmailActivity"
             android:exported="false" />
         <activity android:name=".ui.activities.FirstPageActivity">
             <intent-filter>
