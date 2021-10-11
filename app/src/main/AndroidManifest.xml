@@ -9,7 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.BikeParking">
-        <activity android:name=".MainActivity">
+        <activity
+            android:name=".ui.activities.SignUpActivity"
+            android:exported="false" />
+        <activity android:name=".ui.activities.FirstPageActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
